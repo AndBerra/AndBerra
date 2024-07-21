@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Andrea Berra 👋
+
+![](https://komarev.com/ghpvc/?username=AndBerra&color=yellow)
 
 <!--
 **AndBerra/AndBerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
